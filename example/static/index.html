@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="example">
+<head>
+  <script src="lib/angularjs/angular.min.js"></script>
+  <script src="lib/angular-indexedDB/angular-indexedDB.js"></script>
+  <script src="../../src/resource-cache.js"></script>
+</head>
+
+<body ng-controller="AppCtrl">
+<div>
+  <div ng-required="resource in resources"></div>
+</div>
+</body>
+</html>

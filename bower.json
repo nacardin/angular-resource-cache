@@ -1,0 +1,24 @@
+{
+  "name": "angular-resource-cache",
+  "version": "0.0.1",
+  "homepage": "https://github.com/nacardin/angular-resource-cache",
+  "authors": [
+    "Nicholas Alan Cardin <nacardin@gmail.com>"
+  ],
+  "description": "An angularjs resource cache",
+  "main": "src/resource-cache.js",
+  "ignore": [
+    "example",
+    "bower.json"
+  ],
+  "dependencies": {
+    "angularjs": "~1.2.22",
+    "angular-indexedDB": "~0.0.1"
+  },
+  "keywords": [
+    "angular",
+    "resource",
+    "rest"
+  ],
+  "license": "Unlicense"
+}

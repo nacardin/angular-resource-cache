@@ -1,0 +1,22 @@
+{
+  "name": "example",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.6.5",
+    "connect": "^2.25.7",
+    "express": "^4.8.5",
+    "mockgoose": "^1.10.2",
+    "mongoose": "^3.8.15",
+    "node-restful": "^0.1.17",
+    "serve-static": "^1.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "example",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/nacardin/angular-resource-cache",
+  "authors": [
+    "Nick Cardin <nick@bitpay.com>"
+  ],
+  "license": "Unlicense",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.2.22"
+  }
+}
